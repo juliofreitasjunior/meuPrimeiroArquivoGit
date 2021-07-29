@@ -1,0 +1,95 @@
+Fundamentos do  modelo agil
+
+Agilid : Ser responsivo a mudanças e rápido.
+Rápido : Velocidade
+lin:Evitar  desperdicio.
+
+Problemas existentes
+- Simples x Complexo
+
+Tradicional x Ágil
+
+Conceito de 3V's
+
+Visão - Instruções iniciais 
+
+
+Valor - Aplicando as instruções  
+
+Validação - Instruções já aplicadas 
+
+
+Estrategia de entrega
+
+
+GESTÃO DE PRODUTO X GESTÃO DE PROJETO
+
+Mentalidade agil visa gestão de produto
+
+MANIFESTO ÁGIL
+
+Waterfall - modelo em cascata
+-mais facil
+
+mentalidade
+
+Estamos decobrindo maneiras melhores do desenvolver software
+
+
+
+
+3 V's
+
+valores
+
+individuos e interações mais que processos e ferramenta
+Software em funcionamento mais que documentação abrangente
+Responder a mudanças mais que seguir um plano
+
+
+Principios
+
+práticas
+
+
+
+Projeto produto
+Pessoa Processo
+
+
+
+
+SCRUM Uma forma de implementar a agilidade
+
+Produto backlog
+
+-Funcionalidades lista de coisas a ser realizada
+
+
+Sprint
+
+-Planejamento
+
+
+Equipe Scrum
+
+- PO - tenta ordernar a sequencia de trabalho
+- Devs (desenvolvedor) - Desenvolvedor geral 
+- Scrum master - garantir que o processo funcione 
+
+
+Daily scrum
+
+Reunião diaria - descutir se os serviços vão ser cumpridos
+
+
+
+O que o SCRUM não é um processo a ser executado,  ele é uma mentalidade.
+
+Scrum é um mecanismo para realizar a mudança de forma simetrica.
+
+Scrum deve ser utilizado em ambientes complexos.
+
+
+Scrum te dá um estrutura básica para agilidade e entrega de valores
+
