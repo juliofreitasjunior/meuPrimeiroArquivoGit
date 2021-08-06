@@ -1,0 +1,13 @@
+Pesquisar sobre GIT na programação.
+
+basico comando linux
+https://www.torneseumprogramador.com.br/aula?id=3vc8FrAKC7Q&aula=19&tipo=back-end&professor=Danilo
+
+https://github.com/gbgelado/meu-primeiro-repositorio.git
+
+
+
+
+git config --global user.email "juliofreitasjunior@hotmail.com"
+
+git config --global user.name "Junior"
