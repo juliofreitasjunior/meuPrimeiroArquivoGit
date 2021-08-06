@@ -1,0 +1,16 @@
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.exe
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.deps.json
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.runtimeconfig.json
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.runtimeconfig.dev.json
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.dll
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\ref\notas dos alunos.dll
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\bin\Debug\net5.0\notas dos alunos.pdb
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.csproj.AssemblyReference.cache
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.AssemblyInfoInputs.cache
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.AssemblyInfo.cs
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.csproj.CoreCompileInputs.cache
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.dll
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\ref\notas dos alunos.dll
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.pdb
+C:\Users\Multilaser\source\repos\notas dos alunos\notas dos alunos\obj\Debug\net5.0\notas dos alunos.genruntimeconfig.cache
